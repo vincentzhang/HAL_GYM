@@ -29,7 +29,7 @@
         - fshin     hinge       torque (N m)
 
 -->
-<mujoco model="cheetah">
+<mujoco model="HAL">
     <compiler angle="radian" coordinate="local" inertiafromgeom="true" settotalmass="5"/>
 
     <default>
